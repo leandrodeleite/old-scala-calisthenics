@@ -14,3 +14,10 @@ by Mark Lewis
 Introduction to the Art of Programming Using Scala
 by Mark Lewis
 
+
+
+Main Reference
+---
+
+The Scala Programming Language
+http://scala-lang.org/
