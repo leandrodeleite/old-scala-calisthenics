@@ -21,3 +21,5 @@ Main Reference
 
 The Scala Programming Language
 http://scala-lang.org/
+
+Scala Levels by Martin Odersky
