@@ -18,6 +18,8 @@ Introduction to the Art of Programming Using Scala
 by Mark Lewis
 http://www.programmingusingscala.net/
 
+Learning Scala Programming
+by Mark Lewis
 
 
 Main Reference
