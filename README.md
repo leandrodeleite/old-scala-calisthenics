@@ -21,6 +21,9 @@ http://www.programmingusingscala.net/
 Learning Scala Programming
 by Mark Lewis
 
+Programming in Scala - A Comprehensuve Step-by-Step Guide, Second Edition
+by Martin Odersky
+
 
 Main Reference
 ---
