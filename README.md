@@ -24,6 +24,9 @@ by Mark Lewis
 Programming in Scala - A Comprehensuve Step-by-Step Guide, Second Edition
 by Martin Odersky
 
+Scala for the Impatient
+by Cay Horstmann
+
 
 Main Reference
 ---
