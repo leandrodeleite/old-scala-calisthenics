@@ -27,6 +27,9 @@ by Martin Odersky
 Scala for the Impatient
 by Cay Horstmann
 
+Scala School
+by Tweeter Team
+
 
 Main Reference
 ---
